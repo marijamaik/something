@@ -6,3 +6,4 @@ function kuku(){
 console.log("\nhello world\n");
 
 }
+
